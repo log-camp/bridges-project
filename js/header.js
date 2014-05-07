@@ -4,7 +4,7 @@ function HeaderController ($scope) {
     paragraphOne: 'Insert some of your own paragraph text here.',
     paragraphTwo: 'Insert some of your own paragraph text here.',
     headerImage: 'http://placehold.it/480x297',  
-    actionButtonOne: 'Action Button One', 
-    actionButtonTwo: 'Action Button Two'
+    actionOne: 'Action Button One', 
+    actionTwo: 'Action Button Two'
   }       
 }
