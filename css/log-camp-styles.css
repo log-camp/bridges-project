@@ -2,6 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Nunito);
 @import url(http://openfontlibrary.org/face/osp-din);
 
+body {
+margin: 0px;
+padding: 0px;
+}
+
 /* H1, H2, H3, H4, H5, H6, styles go here */
 h1, h2, h3, h4, h5, h6 {
 font-family: 'OSP-DIN', sans-serif;
