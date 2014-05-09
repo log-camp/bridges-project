@@ -81,14 +81,14 @@ text-decoration: underline;
 
 /* Section One - Section Five styles go here */
 #SectionOne {
-padding: 20px 0px 20px 0px;
+padding: 20px 0px 40px 0px;
 } 
 #SectionOne h2 {
 color: #333333;
 }
 #SectionTwo {
 background-color: #000000;   
-padding: 20px 0px 80px 0px;      
+padding: 20px 0px 30px 0px;      
 }
 #SectionThree {
 background-color: #ffffff;
